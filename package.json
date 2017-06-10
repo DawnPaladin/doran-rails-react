@@ -1,0 +1,8 @@
+{
+  "name": "doran_rails_react",
+  "private": true,
+  "dependencies": {},
+  "scripts": {
+    "postinstall": "cd client && yarn install"
+  }
+}
